@@ -15,82 +15,90 @@ TomcatEE is a professional VSCode extension for managing Apache Tomcat servers w
 ## 🏠 Forum Categories
 
 ### 📖 User Guides
-**[Browse User Guides →](discussions/categories/user-guides)**
+**[Browse User Guides →](user-guides/)**
 
 Comprehensive guides for using TomcatEE effectively:
-- Getting started with TomcatEE
+- [Getting started with TomcatEE](user-guides/getting-started.md)
+- [Quick start guide (中文)](user-guides/getting-started-zh.md)
 - Basic configuration and setup
 - Project deployment workflows
 - Best practices and tips
 
 ### ⚙️ Configuration Help
-**[Get Configuration Help →](discussions/categories/configuration)**
+**[Get Configuration Help →](configuration/)**
 
 Help with configuring TomcatEE for your specific needs:
-- Instance configuration
+
+- [Instance configuration](configuration/instance-configuration.md)
 - Global settings
 - Port management
 - JVM and memory settings
 
 ### 🎓 Tutorials
-**[View Tutorials →](discussions/categories/tutorials)**
+**[View Tutorials →](tutorials/)**
 
 Step-by-step tutorials for common tasks:
-- Quick start guide (中英文)
-- Debug tutorial (调试教程)
+
+- [Debug tutorial](tutorials/debug-tutorial.md) | [调试教程](tutorials/debug-tutorial-zh.md)
 - Multi-module projects (多模块项目)
 - Hot deployment guide (热部署指南)
+- Performance optimization
 
 ### 🔧 Technical Documentation
-**[Read Technical Docs →](discussions/categories/technical-docs)**
+**[Read Technical Docs →](technical-docs/)**
 
 In-depth technical documentation:
-- Hot deployment implementation
+
+- [Hot deployment implementation](technical-docs/hot-deploy-implementation.md)
 - Debug support architecture
 - Multi-module project support
 - Build optimization strategies
 - Template system design
 
 ### 🐛 Troubleshooting
-**[Get Help with Issues →](discussions/categories/troubleshooting)**
+**[Get Help with Issues →](troubleshooting/)**
 
 Solutions for common problems:
-- Startup issues
+
+- [Startup issues](troubleshooting/startup-issues.md)
 - Debug connection problems
 - Port conflicts
 - Build failures
 - Hot deployment issues
 
 ### 👨‍💻 Development
-**[Join Development →](discussions/categories/development)**
+**[Join Development →](development/)**
 
 For contributors and developers:
+
+- [Contributing guidelines](development/contributing-guide.md)
 - Development setup guide
-- Contributing guidelines
 - Code architecture
 - Feature development
 - Pull request process
 
 ### 🐛 Bug Reports
-**[Report Bugs →](discussions/categories/bug-reports)**
+**[Report Bugs →](https://github.com/ijson-projects/tomcatee-forum/issues/new?template=bug_report.md)**
 
 Found a bug? Report it here:
+
 - Bug report template
 - Steps to reproduce
 - Environment information
 - Expected vs actual behavior
 
 ### 💡 Feature Requests
-**[Request Features →](discussions/categories/feature-requests)**
+**[Request Features →](https://github.com/ijson-projects/tomcatee-forum/issues/new?template=feature_request.md)**
 
 Suggest new features and improvements:
+
 - Feature request template
 - Use case descriptions
 - Priority and impact
 - Implementation ideas
 
 ### 📢 Announcements
-**[View Announcements →](discussions/categories/announcements)**
+**[View Announcements →](https://github.com/ijson-projects/tomcatee-forum/discussions)**
 
 Official announcements and updates:
 - Version releases
@@ -105,14 +113,14 @@ Official announcements and updates:
    - Or install from [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=ijson.tomcatee)
 
 2. **Get Help**
-   - Browse the [User Guides](discussions/categories/user-guides)
-   - Check [Troubleshooting](discussions/categories/troubleshooting) for common issues
-   - Ask questions in [General Discussions](discussions)
+   - Browse the [User Guides](user-guides/)
+   - Check [Troubleshooting](troubleshooting/) for common issues
+   - Ask questions in [General Discussions](https://github.com/ijson-projects/tomcatee-forum/discussions)
 
 3. **Contribute**
-   - Read the [Development Guide](discussions/categories/development)
-   - Report bugs in [Bug Reports](discussions/categories/bug-reports)
-   - Suggest features in [Feature Requests](discussions/categories/feature-requests)
+   - Read the [Development Guide](development/)
+   - Report bugs in [Bug Reports](https://github.com/ijson-projects/tomcatee-forum/discussions)
+   - Suggest features in [Feature Requests](https://github.com/ijson-projects/tomcatee-forum/discussions)
 
 ## 📝 How to Use This Forum
 
@@ -155,10 +163,10 @@ Use appropriate labels to help categorize your posts:
 
 ## 📞 Support Channels
 
-- 🐛 **Bug Reports**: [Report Issues](discussions/categories/bug-reports)
-- 💡 **Feature Requests**: [Request Features](discussions/categories/feature-requests)
-- 💬 **General Discussion**: [Community Forum](discussions)
-- 📚 **Documentation**: [User Guides & Tutorials](discussions/categories/user-guides)
+- 🐛 **Bug Reports**: [Report Issues](https://github.com/ijson-projects/tomcatee-forum/issues/new?template=bug_report.md)
+- 💡 **Feature Requests**: [Request Features](https://github.com/ijson-projects/tomcatee-forum/issues/new?template=feature_request.md)
+- 💬 **General Discussion**: [Community Forum](https://github.com/ijson-projects/tomcatee-forum/discussions)
+- 📚 **Documentation**: [User Guides & Tutorials](user-guides/)
 - 🔧 **Technical Help**: [Troubleshooting](discussions/categories/troubleshooting)
 
 ## 🌟 Contributing
